@@ -1,182 +1,128 @@
- <div align="center">
+# 🌸 THYAGA SATHSARANI
 
-<img src="./assets/thyaga-professional-network-animation.gif" width="100%" alt="Thyaga Sathsarani - Telecommunications and Network Engineering"/>
+<div align="center">
 
-<br/>
+<img src="./assets/thyaga-anime-banner.png" width="100%" alt="Thyaga Sathsarani - Anime Cyber Tech Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Telecommunications+Engineering;Network+Engineering;Computer+Security;Network+Operations+%7C+Infrastructure" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=500&color=C084FC&center=true&vCenter=true&width=800&lines=TELECOMMUNICATIONS+ENGINEERING;NETWORK+ENGINEERING;COMPUTER+SECURITY;CONNECTING+%E2%80%A2+MONITORING+%E2%80%A2+SECURING" alt="Animated typing"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ThyagaSathsarani-181717?style=for-the-badge&logo=github)](https://github.com/ThyagaSathsarani)
-[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stsathsarani@gmail.com)
-
-**BUILDING · CONNECTING · SECURING**
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-171515?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stsathsarani@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 ABOUT ME
+## 🌙 About Me
 
-I'm **Thyaga Sathsarani**, a Computer Security graduate with professional experience in telecommunications engineering, international roaming, network operations, technical troubleshooting, firewall management, security monitoring and infrastructure support.
+Hey! I'm **Thyaga Sathsarani**, a Computer Security graduate with professional experience in telecommunications engineering, international roaming, network operations, technical troubleshooting, security monitoring and infrastructure support.
 
 I'm interested in building reliable network infrastructures, improving security and developing practical technical solutions through automation.
 
-- 🎓 BSc (Hons) Computer Security – University of Plymouth
-- 📡 Telecommunications and International Roaming
-- 🌐 Network Engineering and Operations
-- 🔐 Cybersecurity and Security Monitoring
-- 🖥️ IT Infrastructure and Microsoft 365
+- 🎓 BSc (Hons) Computer Security — University of Plymouth
+- 📡 Telecommunications & International Roaming
+- 🌐 Network Operations & Infrastructure
+- 🔐 Cybersecurity & Security Monitoring
+- ⚙️ Python Automation
 - 📍 Sri Lanka
 
 ---
 
-## ⚡ TECHNICAL EXPERTISE
+## ⚡ TECHNICAL SKILLS
 
 ### 📡 Telecommunications & Networking
 
-![GSM](https://img.shields.io/badge/GSM-2563EB?style=flat-square)
-![CAMEL](https://img.shields.io/badge/CAMEL-2563EB?style=flat-square)
-![LTE](https://img.shields.io/badge/LTE-2563EB?style=flat-square)
-![VoLTE](https://img.shields.io/badge/VoLTE-2563EB?style=flat-square)
-![5G](https://img.shields.io/badge/5G-2563EB?style=flat-square)
+![GSM](https://img.shields.io/badge/GSM-6D28D9?style=for-the-badge)
+![CAMEL](https://img.shields.io/badge/CAMEL-6D28D9?style=for-the-badge)
+![LTE](https://img.shields.io/badge/LTE-2563EB?style=for-the-badge)
+![VoLTE](https://img.shields.io/badge/VoLTE-2563EB?style=for-the-badge)
+![5G](https://img.shields.io/badge/5G-9333EA?style=for-the-badge)
 
-- International Roaming
-- Packet Core Networks
-- TCP/IP
-- OSPF
-- BGP
-- HSRP
-- MPLS
-- QoS / SLA Validation
+TCP/IP · OSPF · BGP · MPLS · HSRP · QoS · International Roaming · Packet Core
 
 ### 🔐 Cybersecurity
 
-![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-1679A7?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2563EB?style=for-the-badge)
 
-- Firewall Rule Management
-- Security Monitoring
-- Intrusion Detection
-- DDoS Monitoring
-- Network Exposure Assessment
+Firewall Rule Management · Security Monitoring · Intrusion Detection · DDoS Monitoring · Network Exposure Assessment
 
-### 🖥️ IT Infrastructure & Administration
+### 🖥️ IT Infrastructure
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Microsoft365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft)
 
-- Active Directory
-- Microsoft 365 Administration
-- Exchange Online
-- Microsoft Teams
-- SharePoint
-- OneDrive
-- Windows Server
-- Remote Support Tools
+Active Directory · Exchange Online · Microsoft Teams · SharePoint · OneDrive · Windows Server · Remote Support
 
 ### 💻 Programming & Databases
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-- Python Automation
-- Tkinter
-- MySQL
-- MongoDB
-- SQLite
-- Git and GitHub
-- Excel-based Automation
+Python · Tkinter · Automation · Git · GitHub · MySQL · MongoDB · SQLite
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+## 🚀 PROFESSIONAL EXPERIENCE
 
-### Engineer – Level 1
-**IBT Designers Engineering (Pvt) Ltd** | Colombo, Sri Lanka
+**Engineer – Level 1**  
+IBT Designers Engineering (Pvt) Ltd | February 2026 – Present
 
-`February 2026 – Present`
+- Firewall security rule organisation and Python automation.
+- Network exposure assessment and documentation.
+- Security dashboard monitoring and DDoS activity escalation.
+- Network performance and security event monitoring.
+- Server and security system installation support.
 
-- Organised and cleaned up firewall security rules for a core network facility.
-- Developed Python automation for firewall-related processes.
-- Assessed company and partner networks for publicly exposed systems.
-- Monitored security dashboards for potential cyberattacks, including DDoS activity.
-- Monitored network performance, system alerts and security events.
-- Supported server and security system installation during infrastructure upgrades.
+**International Roaming Outsourced Level 1 Engineer**  
+Mobitel (Pvt) Ltd | February 2026 – Present
 
-### International Roaming Outsourced Level 1 Engineer
-**Mobitel (Pvt) Ltd** | Colombo, Sri Lanka
+- International SIM and service testing.
+- GSM, CAMEL, LTE, VoLTE and 5G testing.
+- International network quality testing.
+- Roaming service troubleshooting.
 
-`February 2026 – Present`
+**International Roaming Engineering Trainee**  
+Mobitel (Pvt) Ltd | July 2025 – January 2026
 
-- Perform international SIM and service testing against GSM, CAMEL, LTE, VoLTE and 5G criteria.
-- Coordinate testing activities with international telecommunications partners.
-- Perform international network quality testing.
-- Investigate service-related issues and support troubleshooting activities.
-
-### International Roaming Engineering Trainee
-**Mobitel (Pvt) Ltd** | Colombo, Sri Lanka
-
-`July 2025 – January 2026`
-
-- Monitored KPI metrics and network alarms.
-- Performed SIGOS testing for MO/MT voice, SMS and data browsing.
-- Validated roaming interoperability across 2G, 3G and 4G networks.
-- Analysed security-related alarms using Hawkeye/Comfone systems.
-- Developed roaming configuration files and Excel-based automation tools.
-- Executed CAMEL testing and built PNET lab simulations.
+- KPI and network alarm monitoring.
+- SIGOS testing for voice, SMS and data services.
+- Roaming interoperability validation.
+- Hawkeye/Comfone security-related alarm analysis.
+- Roaming configuration and SIM inventory automation.
+- PNET lab simulations.
 
 ---
 
-## 🚀 FEATURED PROJECT
+## 🛠️ FEATURED PROJECT
 
-### 🔐 Honeypot System
+### 🔮 Honeypot System
 
-A Python-based honeypot system designed to detect and log unauthorised connection attempts across SSH, HTTP and MySQL ports.
+A Python-based honeypot designed to detect and log unauthorized connection attempts across SSH, HTTP and MySQL ports.
 
 **Key Features**
-
 - Multithreaded socket handling.
 - Real-time event logging.
 - SQLite database storage.
-- Tkinter-based monitoring interface.
-- Testing in isolated virtual machines.
+- Tkinter monitoring interface.
+- Isolated virtual machine testing.
 
-**Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
-![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=flat-square)
-![Networking](https://img.shields.io/badge/Network_Security-2563EB?style=flat-square)
+**Technologies:** Python · Tkinter · SQLite · Socket Programming · Multithreading
 
 ---
 
-## 🎓 EDUCATION
+## 🏆 CERTIFICATIONS & TRAINING
 
-**BSc (Hons) in Computer Security**
-
-University of Plymouth
-
-Plymouth University curriculum delivered at NSBM Green University, Sri Lanka.
-
-`October 2022 – December 2025`
-
----
-
-## 🏆 CERTIFICATIONS & SECURITY TRAINING
-
-| Certification | Provider |
-|---|---|
-| Aviatrix Certified Engineer – Multicloud Network Associate | Aviatrix |
-| Offensive Security Intro | TryHackMe |
-| Pentesting Fundamentals | TryHackMe |
-| Linux Fundamentals | TryHackMe |
-| Defensive Security Intro | TryHackMe |
+- Aviatrix Certified Engineer – Multicloud Network Associate
+- Offensive Security Intro – TryHackMe
+- Pentesting Fundamentals – TryHackMe
+- Linux Fundamentals – TryHackMe
+- Defensive Security Intro – TryHackMe
 
 ---
 
@@ -184,29 +130,26 @@ Plymouth University curriculum delivered at NSBM Green University, Sri Lanka.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThyagaSathsarani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagaSathsarani&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ThyagaSathsarani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 LET'S CONNECT
+## 🌸 CONNECT WITH ME
 
 <div align="center">
 
-Interested in telecommunications, networking, cybersecurity and infrastructure engineering?
+[![Email](https://img.shields.io/badge/Email-stsathsarani%40gmail.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stsathsarani@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-stsathsarani%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stsathsarani@gmail.com)
+**Sri Lanka | Telecommunications | Networking | Cybersecurity**
 
-📍 Sri Lanka
-
-**BUILDING · CONNECTING · SECURING**
+*Building. Connecting. Securing.*
 
 </div>
-
