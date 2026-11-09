@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/thyaga-anime-banner.png" width="100%" alt="Thyaga Sathsarani - Anime Cyber Tech Banner"/>
+<img src="./assets/thyaga_github_banner" width="100%" alt="Thyaga Sathsarani - Anime Cyber Tech Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=500&color=C084FC&center=true&vCenter=true&width=800&lines=TELECOMMUNICATIONS+ENGINEERING;NETWORK+ENGINEERING;COMPUTER+SECURITY;CONNECTING+%E2%80%A2+MONITORING+%E2%80%A2+SECURING" alt="Animated typing"/>
 
